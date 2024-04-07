@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: NidhishVyas/homework8:latest
+          tags: nidhish1312/homework8:latest
 
           # Add other relevant build parameters here
